@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+ 
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+body{
+    min-height: 854px;
+    background-image: url();
+    background-size: ;
+    background-color: ;
+    background-position: ;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+{
+    padding:;
+    margin:;
+    border:;
+    border-radius:;
+    font-size:1rem;
+}
+h1,h2{
+    color:white ;
+}
+
+
+#carta-jogador,
+#carta-maquina{
+    width: 360px;
+    height: 500px;
+    border-radius: 10px;
+    border-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: 350px 300px;
+    background-repeat: no-repeat ;
+    background-position-x: 5px;
+    background-position-y: 10px;
+    border-radius:33px;
+}
+
+#carta-jogador img,
+#carta-maquina img{
+    width: inherit;
+    height: inherit;
+}
+
+.nome-personagem-jogador{
+    position: relative;
+    transform: translateY();
+}
+
+
+
+
+
+
+
